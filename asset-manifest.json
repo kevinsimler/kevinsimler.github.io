@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/franki/static/css/main.5bf54798.css",
-    "main.js": "/franki/static/js/main.33896bea.js",
+    "main.js": "/franki/static/js/main.225424d8.js",
     "index.html": "/franki/index.html",
     "main.5bf54798.css.map": "/franki/static/css/main.5bf54798.css.map",
-    "main.33896bea.js.map": "/franki/static/js/main.33896bea.js.map"
+    "main.225424d8.js.map": "/franki/static/js/main.225424d8.js.map"
   },
   "entrypoints": [
     "static/css/main.5bf54798.css",
-    "static/js/main.33896bea.js"
+    "static/js/main.225424d8.js"
   ]
 }
